@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/)](https://ci.appveyor.com/project/gireassen/ahj-events)

@@ -1,0 +1,11 @@
+body {
+    color: #999;
+}
+
+#wrapper {
+    display: grid;
+  }
+
+.cell {
+    cursor: url('../img/hummer.png'), auto;
+}
